@@ -1,6 +1,4 @@
 # BOBHackathon
-# README.md
-
 ## Project Title
 **AI-Driven Bank Efficiency: Crowd Management, Security, and Virtual Assistance**
 
